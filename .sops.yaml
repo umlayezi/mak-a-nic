@@ -1,0 +1,3 @@
+creation_rules:
+  - path_regex: ^k8s/[^/]+/[^/]+/secrets\.sops\.json$
+    age: age190t2rxs2ql5e42dxhgacv8nwrspk0uxsmq65g5cxppfnwv2nde4swut4ku
